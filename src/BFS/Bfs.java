@@ -39,7 +39,8 @@ public class Bfs {
         while(!exploreQueue.isEmpty()){
             int nodeToExplore = exploreQueue.remove();
             ArrayList<Integer> adjList = graph.get(nodeToExplore);
-            for(int i=0; i<adjList.size(); i++){
+            //for(int i=0, len = adjList.size(); i<len; i++){ //++1
+            for(int i=0, len = adjList.size(); i<len; ++i){
                 int currentNeighbor = adjList.get(i);
                 if(distVisited[currentNeighbor] == -1){
                     exploreQueue.add(currentNeighbor);
