@@ -3,12 +3,12 @@ My shitcode algo collection from Data Structure and Algorithms and Complexity.<b
 This is NOT a Kan-colle reference
 
 # Collection:
-1. Improved BFS (20 times faster than my 250 old BFS. Not formally analyzed. Based on Autograder's runtime)
+## 1. Improved BFS (20 times faster than my 250 old BFS. Not formally analyzed. Based on Autograder's runtime)
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/Shesky17/shesky17.github.io/master/static/host_files/bfs.png">
 </p>
 
-## Input
+### Input
 ```
 2             <- Starting node
 1 2           <- Node 0 shares edges with nodes 1 & 2
@@ -21,7 +21,7 @@ This is NOT a Kan-colle reference
 3 8           <- Node 7 shares edges with nodes 3 & 8
 6 7           <- Node 8 shares edges with nodes 6 & 7
 ```
-## Output
+### Output
 ```
 [1, 2, 0, 1, 1, 1, 2, 2, 3]     <- Node 0 is distance 1 from node 2
                                    Node 1 is distance 2 from node 2
@@ -34,4 +34,4 @@ This is NOT a Kan-colle reference
                                    Node 8 is distance 3 from node 2
 ```
 
-2. Floyd's tortoise and hare (Cycle Detection)
+## 2. Floyd's tortoise and hare (Cycle Detection)
