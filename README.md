@@ -33,3 +33,5 @@ This is NOT a Kan-colle reference
                                    Node 7 is distance 2 from node 2
                                    Node 8 is distance 3 from node 2
 ```
+
+2. Floyd's tortoise and hare (Cycle Detection)
