@@ -3,11 +3,12 @@ package DfsCycle;
 import java.util.*;
 
 /**
- * Floyd.java
- *
- * Reference: https://www.youtube.com/watch?v=pKO9UjSeLew
+ * DfsCycle.java
  *
  * Copyright 2020 Aiden Xie (siqixie@buffalo.edu)
+ *
+ * Reference: Algorithm Design 1st Edition by Kleinberg Jon - page 84 dfs pseudo-code
+ *            ISBN-13: 978-9332518643, ISBN-10: 9332518645
  *
  * This work is licensed under the Creative Commons
  * Attribution-NonCommercial-ShareAlike 4.0 International License.
