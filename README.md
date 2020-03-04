@@ -7,6 +7,8 @@ This is NOT a Kan-colle reference
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/Shesky17/shesky17.github.io/master/static/host_files/bfs.png">
 </p>
+<p align="center"> Image credit- CSE 331 https://cse.buffalo.edu/~erdem/cse331/spring20/hws/hw3/input0.png
+</p>
 
 ### Input
 ```
