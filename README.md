@@ -1,5 +1,5 @@
 # Aru-colle
-My shitcode collection for Data Structure and Algo.<br>
+My shitcode collection <br>
 Lowkey a Kan-colle reference
 
 # Collection:
