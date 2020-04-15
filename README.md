@@ -65,3 +65,26 @@ Lowkey a Kan-colle reference
               <- Node 2 shares an edge with 3 & 0
 ```
 
+## 4. Shortest path in weighted (node) graph 
+
+### Input
+Inputs are in adj-list format <br/>
+Leading num: node's weight <br/>
+The rest are adj nodes <br/>
+
+```
+s                 <- Starting node (some node between u0 and un-1).
+e                 <- Ending node (some node between u0 and un-1).0 3 4 5	      
+w0 u1 u4 u6       <- All nodes that share edges with u0
+w1 u3 uu          <- All nodes that share edges with u1
+.
+.
+.
+wn-1 u0 u4 u2 u7  <- All nodes that share edges with un-1
+```
+### Output
+```
+[s, n0 n1 n2... nm, e]  <- Each entry is a node on the shortest path between 's' and 'e'
+```
+
+
