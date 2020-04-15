@@ -1,13 +1,11 @@
 # Aru-colle
-My shitcode algo collection from Data Structure and Algorithms and Complexity.<br>
-This is NOT a Kan-colle reference
+My shitcode collection for Data Structure and Algo.<br>
+Lowkey a Kan-colle reference
 
 # Collection:
 ## 1. Improved BFS (20 times faster than my 250 old BFS. Not formally analyzed. Based on Autograder's runtime)
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/Shesky17/shesky17.github.io/master/static/host_files/bfs.png">
-</p>
-<p align="center"> Image credit- CSE 331 https://cse.buffalo.edu/~erdem/cse331/spring20/hws/hw3/input0.png
 </p>
 
 ### Input
