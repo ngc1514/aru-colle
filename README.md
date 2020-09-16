@@ -3,7 +3,7 @@ My shitcode collection <br>
 Lowkey a Kan-colle reference
 
 # Collection:
-## 1. Improved BFS (20 times(-ish) faster than the BFS I wrote when I was a freshman. Not formally analyzed. Just took the avg time it needs to run for several times)
+## 1. Improved BFS
 <p align="center">
   <img width="300" height="300" src="https://raw.githubusercontent.com/Shesky17/shesky17.github.io/master/static/host_files/bfs.png">
 </p>
