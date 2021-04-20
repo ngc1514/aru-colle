@@ -1,6 +1,5 @@
 # Aru-colle
-My shitcode collection <br>
-Lowkey a Kan-colle reference
+My algo collection <br>
 
 # Collection:
 ## 1. Improved BFS
